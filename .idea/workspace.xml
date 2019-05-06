@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d951df3e-be4e-4c09-804b-550acae71457" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -269,7 +268,7 @@
       <updated>1556727330966</updated>
       <workItem from="1556727333868" duration="1951000" />
       <workItem from="1557083719181" duration="2777000" />
-      <workItem from="1557162695705" duration="948000" />
+      <workItem from="1557162695705" duration="1071000" />
     </task>
     <servers />
   </component>
@@ -291,7 +290,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5676000" />
+    <option name="totallyTimeSpent" value="5799000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="720" y="23" width="720" height="820" extended-state="0" />
